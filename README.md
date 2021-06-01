@@ -38,4 +38,4 @@ My name is Bruno Moraes, I am 22 years old and most of the time I spend developi
 [![BrunoMoraes-Z stats](https://github-readme-stats.vercel.app/api?username=BrunoMoraes-Z&theme=tokyonight)](https://github.com/BrunoMoraes-Z/)
 [![BrunoMoraes-Z stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoraes-Z&hide=html&layout=compact&theme=tokyonight)](https://github.com/BrunoMoraes-Z/)
 
-![Snake animation](https://github.com/BrunoMoraes-Z/BrunoMoraes-Z)
+![Snake animation](https://github.com/BrunoMoraes-Z/BrunoMoraes-Z/blob/output/github-contribution-grid-snake.svg)
