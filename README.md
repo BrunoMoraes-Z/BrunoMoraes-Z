@@ -27,7 +27,6 @@ My name is Bruno Moraes, I am 25 years old and most of the time I spend developi
 
 <details>
   <summary>💬 Contact</summary>
-   <img alt="Discord" src="https://img.shields.io/badge/Zeuss%236943-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white" />
    <a href="https://www.linkedin.com/in/bruno-moraes-b58bb8181/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
