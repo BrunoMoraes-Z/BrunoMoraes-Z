@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ### Welcome to my GitHub 🎇
-My name is Bruno Moraes, I am 25 years old and most of the time I spend developing in Java, Dart and Flutter, I continue to learn Python and Typescript. Below you can find the areas in which I work and / or study.
+My name is Bruno Moraes, I am 26 years old and most of the time I spend developing in Java, Dart and Flutter, I continue to learn Python and Typescript. Below you can find the areas in which I work and / or study.
 
 ### :clipboard: Technologies:
 
